@@ -12,15 +12,7 @@ ECHO ============= APPLICATION ===========
 ECHO -------------------------------------
 ECHO 1.  Adobe Photoshop CC 2019
 ECHO 2.  Adobe After Effect CC 2019
-ECHO 3.  Selection 3
-ECHO 4.  Selection 4
-ECHO 5.  Selection 5
-ECHO 6.  Selection 6
-ECHO 7.  Selection 7
-ECHO -------------------------------------
-ECHO 8.  Selection 8
-ECHO -------------------------------------
-ECHO 9.  Selection 9
+ECHO 3.  iObit Driver Booster
 ECHO -------------------------------------
 ECHO ==========PRESS 'Q' TO QUIT==========
 ECHO.
@@ -53,8 +45,9 @@ GOTO MENU
 
 :Selection1
 
-Whatever code you want goes here...
-
+cd Apps
+cd Adobe Photoshop
+Setup.exe
 :Selection2
 
 and in here...
