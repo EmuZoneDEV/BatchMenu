@@ -1,4 +1,6 @@
 @ECHO OFF
+Title Application Setup
+Color 0a
 C:
 CD\
 CLS
@@ -6,10 +8,10 @@ CLS
 :MENU
 CLS
 
-ECHO ============= MENU NAME =============
+ECHO ============= APPLICATION ===========
 ECHO -------------------------------------
-ECHO 1.  Selection 1
-ECHO 2.  Selection 2
+ECHO 1.  Adobe Photoshop CC 2019
+ECHO 2.  Adobe After Effect CC 2019
 ECHO 3.  Selection 3
 ECHO 4.  Selection 4
 ECHO 5.  Selection 5
